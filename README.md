@@ -3,18 +3,21 @@
 Bunch of goods for ctf dudes
 
 ## Table of contest:
-1. [Network](#network)
-2. [Crypto](#crypto)
-3. [Web](#web)
-4. [Forensics](#forensics)
-5. [Binary](#binary)
-6. [Pwn](#pwn)
-7. [Misc](#misc)
+- [Network](#network)
+- [Crypto](#crypto)
+- [Web](#web)
+- [Forensics](#forensics)
+- [Reverse](#reverse)
+- [Pwn](#pwn)
+- [Misc](#misc)
 
 ---
 
 ## Network
 
+- [Nmap](https://nmap.org/) - An open source utility for network discovery and security auditing.
+- [Wireshark](https://www.wireshark.org/) - Analyze the network dumps.
+  - `apt-get install wireshark`
 
 ---
 
@@ -25,6 +28,9 @@ Bunch of goods for ctf dudes
 
 ## Web
 
+- [BurpSuite](https://portswigger.net/burp) - A graphical tool to testing website security.
+- [Payload All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings/) - A list of useful payloads and bypasses
+- [JSFuck](http://www.jsfuck.com/) - Convert js code with six characters
 
 ---
 
@@ -33,7 +39,7 @@ Bunch of goods for ctf dudes
 
 ---
 
-## Binary
+## Reverse
 
 
 ---
