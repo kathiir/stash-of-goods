@@ -31,7 +31,8 @@ Bunch of goods for ctf dudes
 - [CyberChef](https://gchq.github.io/CyberChef/) - MULTIPLE methods of enciphering/encoding, uses more complicated methods and can have more processes going on at once.
 - [Dcode](https://www.dcode.fr/tools-list) - Contains a list of mathematical problem calculations, encodings, encryptions, and many more.
 - [Link Identifier](https://a4x.me/tools/link/) - A tool that will guess what site a link identifier could belong to given the length. Made by Discord user A4.
-- 
+- [CrackStation](https://crackstation.net/) - Hash cracker.
+- [SNOW Whitespace](http://www.darkside.com.au/snow/) - Whitespace steganography.
 
 
 
@@ -51,6 +52,16 @@ Bunch of goods for ctf dudes
 - [Steghide](http://steghide.sourceforge.net/) - A steganography program that is able to hide data in various kinds of image- and audio-files.
 - [Forensically](https://29a.ch/photo-forensics/) - A set of tools to forensically analyze photos.
 - [HxD](https://mh-nexus.de/en/hxd/) - Hex editor.
+- [SNOW Whitespace](http://www.darkside.com.au/snow/) - Whitespace steganography.
+- [Audacity](https://www.audacityteam.org/) - Useful program used for audio inspecting.
+- [DTMF](http://www.teworks.com/dtmf.htm) - Dual Tone Multi Frequency tones decoding.
+- [fldigi](https://drive.google.com/file/d/0ByiJ3Glc7CR9Q2VxN2cxMnZ0T1E/view?usp=sharing) - Can encrypt/decrypt a lot of audio encryption. Manual can be found [here](http://cyber.meme.tips/fldigi-guide/).
+ - NOTE: Not user-friendly!
+- [RX-SSTV](http://users.belgacom.net/hamradio/rxsstv.htm) - A program that deciphers SSTV encryption on audio tracks.
+- [OtpXor](https://github.com/otp22/decoders/tree/master/OtpXor) - Made by the creator of ae27ff, allows for the xoring of two large files together.
+- [XorJ](https://github.com/crashdemons/XorJ) - Made by the creator of ae27ff, allows for the xoring of two relatively small files together.
+- [Binvis](http://binvis.io/#/) - Gives a visual representation of binary files.
+
 
 
 ---
