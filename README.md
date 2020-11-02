@@ -56,7 +56,7 @@ Bunch of goods for ctf dudes
 - [Audacity](https://www.audacityteam.org/) - Useful program used for audio inspecting.
 - [DTMF](http://www.teworks.com/dtmf.htm) - Dual Tone Multi Frequency tones decoding.
 - [fldigi](https://drive.google.com/file/d/0ByiJ3Glc7CR9Q2VxN2cxMnZ0T1E/view?usp=sharing) - Can encrypt/decrypt a lot of audio encryption. Manual can be found [here](http://cyber.meme.tips/fldigi-guide/).
- - NOTE: Not user-friendly!
+  - NOTE: Not user-friendly!
 - [RX-SSTV](http://users.belgacom.net/hamradio/rxsstv.htm) - A program that deciphers SSTV encryption on audio tracks.
 - [OtpXor](https://github.com/otp22/decoders/tree/master/OtpXor) - Made by the creator of ae27ff, allows for the xoring of two large files together.
 - [XorJ](https://github.com/crashdemons/XorJ) - Made by the creator of ae27ff, allows for the xoring of two relatively small files together.
