@@ -61,7 +61,7 @@ Bunch of goods for ctf dudes
 - [OtpXor](https://github.com/otp22/decoders/tree/master/OtpXor) - Made by the creator of ae27ff, allows for the xoring of two large files together.
 - [XorJ](https://github.com/crashdemons/XorJ) - Made by the creator of ae27ff, allows for the xoring of two relatively small files together.
 - [Binvis](http://binvis.io/#/) - Gives a visual representation of binary files.
-
+- [Rawpixels](http://rawpixels.net/) - Visualizes .raw files.
 
 
 ---
