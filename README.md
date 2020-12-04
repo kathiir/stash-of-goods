@@ -33,6 +33,7 @@ Bunch of goods for ctf dudes
 - [Link Identifier](https://a4x.me/tools/link/) - A tool that will guess what site a link identifier could belong to given the length. Made by Discord user A4.
 - [CrackStation](https://crackstation.net/) - Hash cracker.
 - [SNOW Whitespace](http://www.darkside.com.au/snow/) - Whitespace steganography.
+- [FactorDB](http://factordb.com/) - Integer factorization.
 
 
 
@@ -68,6 +69,7 @@ Bunch of goods for ctf dudes
 
 ## Forensics
 
+- [Volatility](https://www.volatilityfoundation.org) - An advanced memory forensics framework.
 
 
 ---
@@ -78,6 +80,8 @@ Bunch of goods for ctf dudes
 ---
 
 ## Pwn
+
+- [Pwntools](http://docs.pwntools.com/) - CTF framework and exploit development library.
 
 
 ---
