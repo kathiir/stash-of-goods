@@ -12,6 +12,10 @@ Bunch of goods for ctf dudes
 - [Misc](#misc)
 - [Stego](#stego)
 - [Osint](#osint)
+- [Attacks](#attacks)
+- [Bruteforce](#bruteforce)
+- [Exploits](#exploits)
+
 
 ---
 
@@ -20,6 +24,7 @@ Bunch of goods for ctf dudes
 - [Nmap](https://nmap.org/) - An open source utility for network discovery and security auditing.
 - [Wireshark](https://www.wireshark.org/) - Analyze the network dumps.
   - `apt-get install wireshark`
+
 
 ---
 
@@ -30,11 +35,16 @@ Bunch of goods for ctf dudes
 - [ASCII to Hex](https://www.asciitohex.com/) - Converts ASCII to hex and vice versa, as well as to other number-based encryption methods.
 - [CyberChef](https://gchq.github.io/CyberChef/) - MULTIPLE methods of enciphering/encoding, uses more complicated methods and can have more processes going on at once.
 - [Dcode](https://www.dcode.fr/tools-list) - Contains a list of mathematical problem calculations, encodings, encryptions, and many more.
-- [Link Identifier](https://a4x.me/tools/link/) - A tool that will guess what site a link identifier could belong to given the length. Made by Discord user A4.
 - [CrackStation](https://crackstation.net/) - Hash cracker.
 - [SNOW Whitespace](http://www.darkside.com.au/snow/) - Whitespace steganography.
 - [FactorDB](http://factordb.com/) - Integer factorization.
-
+- [FeatherDuster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction.
+- [Hash Extender](https://github.com/iagox86/hash_extender) - A tool to exploit the hash length extension attack in various hashing algorithms.
+- [padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker) - CLI tool and library to execute padding oracle attacks easily, with support for concurrent network requests and an elegant UI.
+- [PkCrack](https://github.com/keyunluo/pkcrack) - Breaking PkZip-encryption.
+- [quipqiup](https://www.quipqiup.com/) - It can solve simple substitution ciphers often found in newspapers, including puzzles like cryptoquips (in which word boundaries are preserved) and patristocrats (inwhi chwor dboun darie saren t).
+- [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher.
+- [hashID](https://github.com/psypanda/hashID) - Identify the different types of hashes used to encrypt data and especially passwords.
 
 
 ---
@@ -44,6 +54,7 @@ Bunch of goods for ctf dudes
 - [BurpSuite](https://portswigger.net/burp) - A graphical tool to testing website security.
 - [Payload All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings/) - A list of useful payloads and bypasses
 - [JSFuck](http://www.jsfuck.com/) - Convert js code with six characters
+
 
 ---
 
@@ -82,11 +93,15 @@ Bunch of goods for ctf dudes
 ## Pwn
 
 - [Pwntools](http://docs.pwntools.com/) - CTF framework and exploit development library.
+- [OneGadget](https://github.com/david942j/one_gadget) - The best tool for finding one gadget RCE in libc.so.6.
+
 
 
 ---
 
 ## Misc
+
+- [Link Identifier](https://a4x.me/tools/link/) - A tool that will guess what site a link identifier could belong to given the length. Made by Discord user A4.
 
 
 ---
@@ -95,3 +110,35 @@ Bunch of goods for ctf dudes
 
 
 ---
+
+## Attacks
+
+- [Bettercap](https://www.bettercap.org/) - Swiss Army knife for WiFi, Bluetooth Low Energy, wireless HID hijacking and Ethernet networks reconnaissance and MITM attacks.
+- [Yersinia](https://github.com/tomac/yersinia) - A framework for layer 2 attacks.
+
+
+---
+
+## Bruteforce
+
+- [Hashcat](https://hashcat.net/hashcat/) - Advanced password recovery tools.
+- [Hydra](https://tools.kali.org/password-attacks/hydra) - Parallelized login cracker.
+- [John the Ripper](https://www.openwall.com/john/) - An Open Source password security auditing and password recovery tool.
+- [John the Jumbo](https://github.com/openwall/john) - This is the community-enhanced, "jumbo" version of John the Ripper.
+- [Nozzlr](https://github.com/intrd/nozzlr) - Nozzlr is a bruteforce framework, trully modular and script-friendly.
+- [Ophcrack](https://ophcrack.sourceforge.io/) - Free Windows password cracker based on rainbow tables.
+- [Patator](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
+- [Turbo Intruder](https://portswigger.net/research/turbo-intruder-embracing-the-billion-request-attack) - Turbo Intruder is a Burp Suite extension for sending large numbers of HTTP requests and analyzing the results.
+- [hashID](https://github.com/psypanda/hashID) - Identify the different types of hashes used to encrypt data and especially passwords.
+
+
+---
+
+## Exploits
+
+- [DLLInjector](https://github.com/OpenSecurityResearch/dllinjector) - This tool aims to implement various DLL injection techniques that work across multiple Windows versions.
+- [Metasploit](https://www.metasploit.com/) - Penetration testing framework.
+- [OneGadget](https://github.com/david942j/one_gadget) - The best tool for finding one gadget RCE in libc.so.6.
+- [QIRA](https://github.com/geohot/qira) - QEMU Interactive Runtime Analyser
+- []() -
+- []() -
