@@ -61,6 +61,13 @@ Bunch of goods for ctf dudes
 - [JSFuck](http://www.jsfuck.com/) - Convert js code with six characters
 - [CSWSH](https://cow.cat/cswsh.html) - Cross-Site WebSocket Hijacking Tester.
 - [Request Bin](https://requestbin.com/) - Collect HTTP or webhook requests or subscribe to events from popular apps.
+- [Commix](https://github.com/commixproject/commix) - An automated tool to searching for bugs, errors or vulnerabilities related to command injection attacks.
+- [Owasp zap](https://www.zaproxy.org/) - Web app scanner.
+- [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) - An app for web debugging.
+- [Racoon](https://github.com/evyatarmeged/Raccoon) - An Offensive Security Tool for Reconnaissance and Information Gathering.
+- [SQLMap](https://github.com/sqlmapproject/sqlmap) - An automated SQL injection tool.
+- [W3af](https://github.com/andresriancho/w3af) - A web application security scanner to identify and exploit vulnerabilities.
+- [XSSer](https://github.com/sqlmapproject/sqlmap) - An automated tool to detect and exploit XSS vulnerabilities in web applications.
 
 
 ---
@@ -81,6 +88,16 @@ Bunch of goods for ctf dudes
 - [XorJ](https://github.com/crashdemons/XorJ) - Made by the creator of ae27ff, allows for the xoring of two relatively small files together.
 - [Binvis](http://binvis.io/#/) - Gives a visual representation of binary files.
 - [Rawpixels](http://rawpixels.net/) - Visualizes .raw files.
+- [AudioStego](https://github.com/danielcardeenas/AudioStego) - Audio file steganography. Hides text or files inside audio files and retrieve them automatically.
+- [AperiSolve](https://aperisolve.fr/) - Image layer analysis.
+- [Exif](http://manpages.ubuntu.com/manpages/trusty/man1/exif.1.html) - Shows EXIF info in JPEG files.
+- [Exiv2](https://www.exiv2.org/manpage.html) - Image metadata manipulation tool.
+- [Stegbreak](https://github.com/redNixon/stegdetect) - An automated tool for detecting steganographic content in images.
+- [Outguess](https://www.freebsd.org/cgi/man.cgi?query=outguess+&apropos=0&sektion=0&manpath=FreeBSD+Ports+5.1-RELEASE&format=html) - An universal steganographic tool.
+- [StegCracker](https://github.com/Paradoxis/StegCracker) - A brute-force utility to uncover hidden data inside files.
+- [StegExtract](https://github.com/evyatarmeged/stegextract) -  Bash script to extract hidden files and strings from images.
+- [StegOnline](https://stegonline.georgeom.net/checklist) - Image steganography solver.
+- [ZSteg](https://github.com/zed-0xff/zsteg/) - A tool for detection stegano-hidden data in PNG & BMP.
 
 
 ---
@@ -156,6 +173,9 @@ source.
 ---
 
 ## Osint
+
+- [Namech_k](http://namechk.com/) - Find an available username.
+- [Photo Tracker Lite](https://phototracker.ru/lite/) - Image search extension.
 
 
 ---
