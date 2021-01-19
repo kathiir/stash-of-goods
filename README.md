@@ -68,6 +68,7 @@ Bunch of goods for ctf dudes
 - [SQLMap](https://github.com/sqlmapproject/sqlmap) - An automated SQL injection tool.
 - [W3af](https://github.com/andresriancho/w3af) - A web application security scanner to identify and exploit vulnerabilities.
 - [XSSer](https://github.com/sqlmapproject/sqlmap) - An automated tool to detect and exploit XSS vulnerabilities in web applications.
+- [Regex101](https://regex101.com/) - Online regex tester and debugger.
 
 
 ---
