@@ -99,6 +99,7 @@ Bunch of goods for ctf dudes
 - [StegExtract](https://github.com/evyatarmeged/stegextract) -  Bash script to extract hidden files and strings from images.
 - [StegOnline](https://stegonline.georgeom.net/checklist) - Image steganography solver.
 - [ZSteg](https://github.com/zed-0xff/zsteg/) - A tool for detection stegano-hidden data in PNG & BMP.
+- [steg86](https://github.com/woodruffw/steg86) - Hiding messages in x86 programs using semantic duals.
 
 
 ---
