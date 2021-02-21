@@ -110,8 +110,8 @@ Bunch of goods for ctf dudes
 
 - [Volatility](https://www.volatilityfoundation.org) - An advanced memory forensics framework.
 - [Wireshark](https://www.wireshark.org/) - Analyze the network dumps.
-  - `apt-get install wireshark`
-
+  - `apt-get install wireshark
+- [Windows Forensics Analisys](https://www.sans.org/security-resources/posters/windows-forensic-analysis/170/download) - Windows forensics. 
 
 ---
 
