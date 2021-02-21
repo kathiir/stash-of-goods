@@ -50,6 +50,7 @@ Bunch of goods for ctf dudes
 - [quipqiup](https://www.quipqiup.com/) - It can solve simple substitution ciphers often found in newspapers, including puzzles like cryptoquips (in which word boundaries are preserved) and patristocrats (inwhi chwor dboun darie saren t).
 - [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher.
 - [hashID](https://github.com/psypanda/hashID) - Identify the different types of hashes used to encrypt data and especially passwords.
+- [RSA Converter](https://rsaconverter.sourceforge.io) - Fast conversion between RSA CRT and RSA SFM formats.
 
 
 ---
@@ -170,6 +171,7 @@ source.
 - [Link Identifier](https://a4x.me/tools/link/) - A tool that will guess what site a link identifier could belong to given the length. Made by Discord user A4.
 - [v0lt](https://github.com/P1kachu/v0lt) - Security CTF Toolkit.
 - [redis-cli](https://redis.io/topics/rediscli) - Redis command line interface, a simple program that allows to send commands to Redis, and read the replies sent by the server, directly from the terminal.
+- [Duck Toolkit](https://ducktoolkit.com) - Ducky code generetor (encoder/decoder).
 
 
 ---
