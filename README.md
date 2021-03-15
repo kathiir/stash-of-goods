@@ -102,7 +102,7 @@ Bunch of goods for ctf dudes
 - [ZSteg](https://github.com/zed-0xff/zsteg/) - A tool for detection stegano-hidden data in PNG & BMP.
 - [steg86](https://github.com/woodruffw/steg86) - Hiding messages in x86 programs using semantic duals.
 - [arss](http://arss.sourceforge.net/index.shtml) - Reading .wav files from images
-- foremost - Good processing PDF
+- [foremost](https://sourceforge.net/projects/foremost) - Good at PDF stego
 
 
 ---
