@@ -103,6 +103,7 @@ Bunch of goods for ctf dudes
 - [steg86](https://github.com/woodruffw/steg86) - Hiding messages in x86 programs using semantic duals.
 - [arss](http://arss.sourceforge.net/index.shtml) - Reading .wav files from images
 - [foremost](https://sourceforge.net/projects/foremost) - Good at PDF stego
+- [stegano-midi](https://github.com/maxcruz/stegano_midi) - Steganography in midi files
 
 
 ---
