@@ -184,6 +184,9 @@ source.
 - [Namech_k](http://namechk.com/) - Find an available username.
 - [Photo Tracker Lite](https://phototracker.ru/lite/) - Image search extension.
 - [ADS-B.NL](http://www.ads-b.nl) - Tracking Military Aircraft.
+- [Shodan](https://www.shodan.io/) - Search Engine for the Internet of Everything.
+- [Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery using open source information gathering and active reconnaissance techniques.
+- [Sublist3r](https://github.com/aboul3la/Sublist3r) - Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT.
 
 
 ---
