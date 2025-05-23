@@ -104,6 +104,7 @@ Bunch of goods for ctf dudes
 - [arss](http://arss.sourceforge.net/index.shtml) - Reading .wav files from images
 - [foremost](https://sourceforge.net/projects/foremost) - Good at PDF stego
 - [stegano-midi](https://github.com/maxcruz/stegano_midi) - Steganography in midi files
+- [DeepSound](https://github.com/Jpinsoft/DeepSound) - steganography tool and audio converter that hides secret data into audio files.
 
 
 ---
